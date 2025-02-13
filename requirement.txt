@@ -6,3 +6,4 @@ pypdf
 bs4
 faiss-cpu
 requests
+langchain-openai
