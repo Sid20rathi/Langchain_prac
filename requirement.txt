@@ -9,3 +9,5 @@ requests
 langchain-openai
 streamlit
 langchain_ollama
+langchain-groq
+langchain-core
