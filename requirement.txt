@@ -11,3 +11,7 @@ streamlit
 langchain_ollama
 langchain-groq
 langchain-core
+fastapi
+uvicorn
+langserve
+sse_starlette
